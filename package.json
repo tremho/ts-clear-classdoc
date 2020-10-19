@@ -1,0 +1,15 @@
+{
+  "name": "ts-clear-classdoc",
+  "version": "1.0.0",
+  "description": "clears the /** @class */ stubs from typescript generated JS to avoid empty JSDoc entries",
+  "main": "index.js",
+  "bin": {
+    "tsccd": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
