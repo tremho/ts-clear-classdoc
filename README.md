@@ -74,7 +74,7 @@ This is run just prior to the invocation of the documentation.js doc
 generation as part of a build script sequence, so in the
 end all turns out as it should.
 
-If this is a documenation workflow for typescript that 
+If this is a documentation workflow for typescript that 
 you think will work for you, you may find this utility
 helpful.  
 
